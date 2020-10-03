@@ -1,0 +1,51 @@
+/* about social images */
+
+@media (min-width: 300px) and (max-width:478px) { 
+    .playstore-img img{margin: 10px;} 
+  } 
+
+
+@media only screen and (max-width: 600px){
+    .base-header-left{
+        display: block;
+        margin-top: -55px;
+        background-size: cover;
+        margin-right: 15px;
+        margin-left: 15px;  
+    } 
+}
+@media only screen and (max-width: 768px){
+    .base-header-left{
+       display: block;
+       margin: 0;
+       padding: 0;
+    } 
+}
+
+
+
+@media (max-width: 991px) and (min-width: 768px) {
+    .whychoose-wrp{
+        margin-right: 15px;
+        margin-left: 15px;
+        margin-top: -54px;
+    }
+}
+
+
+
+@media only screen and (max-width:600px){
+    .col-md-6 .fruit_header_text {
+       width: 70%;
+     
+       
+   }
+}
+
+@media only screen and (max-width:600px){
+ .col-md-6 .fruit-arrow-postion .slick-arrow{
+       width: 30%;
+       
+      
+   }
+}
